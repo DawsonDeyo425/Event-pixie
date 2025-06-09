@@ -6,8 +6,6 @@
 
 [![Deploy to AWS](https://img.shields.io/badge/🚀%20DEPLOY%20TO%20AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E)](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/create/review?stackName=event-pixie&templateURL=https://raw.githubusercontent.com/DawsonDeyo425/event-pixie/main/cloudformation.yaml)
 
-**⚠️ IMPORTANT: Replace "YOURUSERNAME" in the button above with your actual GitHub username!**
-
 ---
 
 ## 💰 What You Get
@@ -52,7 +50,7 @@
 ## 🎯 Deployment Instructions
 
 ### **Step 1: Click the Deploy Button**
-[![Deploy to AWS](https://img.shields.io/badge/🚀%20DEPLOY%20TO%20AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E)](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/create/review?stackName=event-pixie&templateURL=https://raw.githubusercontent.com/YOURUSERNAME/event-pixie/main/cloudformation.yaml)
+[![Deploy to AWS](https://img.shields.io/badge/🚀%20DEPLOY%20TO%20AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E)](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/create/review?stackName=event-pixie&templateURL=https://raw.githubusercontent.com/DawsonDeyo425/event-pixie/main/cloudformation.yaml)
 
 ### **Step 2: Fill the Form**
 AWS will show you a simple form:
@@ -170,7 +168,7 @@ Stripe Secret Key: sk_test_...
 ### **Common Issues:**
 
 **❌ "Template URL not found"**
-→ Make sure you replaced "YOURUSERNAME" with your actual GitHub username
+→ Make sure both files are uploaded to your GitHub repository
 
 **❌ "Stack already exists"**  
 → Use a different stack name like "event-pixie-2"
@@ -228,7 +226,7 @@ Stripe Secret Key: sk_test_...
 
 ### **Your SaaS Business Starts With One Click:**
 
-[![Deploy to AWS](https://img.shields.io/badge/🚀%20DEPLOY%20TO%20AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E)](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/create/review?stackName=event-pixie&templateURL=https://raw.githubusercontent.com/YOURUSERNAME/event-pixie/main/cloudformation.yaml)
+[![Deploy to AWS](https://img.shields.io/badge/🚀%20DEPLOY%20TO%20AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E)](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/create/review?stackName=event-pixie&templateURL=https://raw.githubusercontent.com/DawsonDeyo425/event-pixie/main/cloudformation.yaml)
 
 **🎉 10 minutes from now, you'll own a complete SaaS platform!**
 
@@ -237,3 +235,49 @@ Stripe Secret Key: sk_test_...
 **Built with ❤️ for entrepreneurs ready to disrupt the $300B+ wedding industry**
 
 *© 2024 Event Pixie. From idea to income in minutes.*
+
+---
+
+## 💰 What You Get
+
+### **Complete SaaS Platform:**
+- ✅ **Vendor Management System** - Approve vendors, manage subscriptions
+- ✅ **Client Event Planning Portal** - Book vendors, plan events  
+- ✅ **Payment Processing** - Stripe integration ready
+- ✅ **Lead Management** - Track and convert prospects
+- ✅ **Communication Tools** - Messaging between vendors and clients
+- ✅ **Mobile Responsive** - Works on all devices
+- ✅ **Professional Design** - Ready for customers
+
+### **Revenue Streams:**
+- 💵 **$35/month** vendor subscriptions
+- 💵 **$5 per lead** commission
+- 💵 **Premium features** upgrades
+- 💵 **Featured listings** fees
+
+### **Cost Breakdown:**
+- **First 12 months**: **FREE** (AWS Free Tier)
+- **After 12 months**: ~$40-60/month
+- **Revenue potential**: $1,000+/month
+
+---
+
+## 📋 Pre-Deployment Checklist
+
+### ✅ **You Need:**
+1. **AWS Account** (free - https://aws.amazon.com)
+2. **Stripe Account** (free - https://stripe.com)
+3. **Your Stripe API Keys:**
+   - Publishable Key: `pk_test_...`
+   - Secret Key: `sk_test_...`
+4. **Your Business Details:**
+   - Email address
+   - Business name
+   - Strong password
+
+---
+
+## 🎯 Deployment Instructions
+
+### **Step 1: Click the Deploy Button**
+[![Deploy to AWS](https://img.shields.io/badge/🚀%20DEPLOY%20TO%20AWS-FF9
